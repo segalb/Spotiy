@@ -5,5 +5,5 @@
     2.
     3.
 1. [ToDo](h)
-    1. Web 1.0 Guestbook
-    1. Bonus: Trello CSV Import Export
+    1.
+    1. 
